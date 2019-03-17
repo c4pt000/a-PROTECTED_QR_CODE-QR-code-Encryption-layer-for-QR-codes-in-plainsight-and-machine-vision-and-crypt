@@ -30,6 +30,10 @@ used to protect sensitive or financial information encoded into a QR code
 
 
 
+https://www.reddit.com/r/pcmasterrace/comments/ay7uhc/to_reduce_time_and_energy_waste_with_copy_and/
+
+
+
 if you found this useful, anything helps
 
 1C4XqNoP9QMPQicKBW4R4Dfmpz67YN7qCW
