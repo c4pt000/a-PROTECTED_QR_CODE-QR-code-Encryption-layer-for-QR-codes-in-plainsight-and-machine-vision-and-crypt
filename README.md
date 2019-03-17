@@ -5,7 +5,7 @@ to add a layer to the standard model of QR code engines for the random creation 
 
 a signing key could be implemented as part of the QR pattern as layer of encryption and this same signing key used to generate the QR code could be imported into the application before any QR code is imported from the generating application to further protect QR codes from the misuse of most photographic equipment to protect and prevent the QR code from being imported to external applications outside of the user importing the QR code into said user's application
 
-application authorized QR codes, using a signing key to generate the encryption layer as part of the extended pattern of the already existient QR code pattern generation 
+application authorized QR codes, using a signing key to generate the encryption layer as part of an extended pattern of the already existient QR code pattern generation nested in the QR code 
 
 use to protect sensitive or financial information encoded into a QR code 
 
