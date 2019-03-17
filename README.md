@@ -7,7 +7,7 @@ a signing key could be implemented as part of the QR pattern as layer of encrypt
 
 application authorized QR codes, using a signing key to generate the encryption layer as part of an extended pattern of the already existient QR code pattern generation nested in the QR code 
 
-use to protect sensitive or financial information encoded into a QR code 
+used to protect sensitive or financial information encoded into a QR code 
 
 ![s1](https://i.imgur.com/8ySfKAP.jpg)
 
