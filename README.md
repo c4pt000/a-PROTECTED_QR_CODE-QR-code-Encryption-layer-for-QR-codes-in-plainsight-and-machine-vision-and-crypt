@@ -9,10 +9,9 @@ application authorized QR codes, using a signing key to generate the encryption 
 
 used to protect sensitive or financial information encoded into a QR code 
 
-https://imgur.com/a/M7CuHmD
 
 
-![s1](https://imgur.com/a/M7CuHmD)
+![s1](https://i.imgur.com/M7CuHmD.jpg)
 
 
 
