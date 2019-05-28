@@ -23,8 +23,10 @@ used to protect sensitive or financial information encoded into a QR code
 
 
 
-![s1](https://i.imgur.com/8ySfKAP.jpg)
 
+
+
+<p align="center"><img src="https://i.imgur.com/8ySfKAP.jpg" width="200"></p>
 
 
 
