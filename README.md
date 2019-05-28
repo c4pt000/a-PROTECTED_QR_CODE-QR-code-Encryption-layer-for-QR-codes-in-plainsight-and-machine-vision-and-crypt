@@ -15,7 +15,7 @@ used to protect sensitive or financial information encoded into a QR code
 
 
 
-
+![s1](https://i.imgur.com/ywj5DSR.png)
 
 
 
