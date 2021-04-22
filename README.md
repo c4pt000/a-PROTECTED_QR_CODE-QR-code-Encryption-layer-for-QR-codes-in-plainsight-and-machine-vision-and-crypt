@@ -1,3 +1,13 @@
+
+# update noticed this news story
+
+https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/
+
+^^ non protected QR code images without a binding OTP or 2FA pin encoded into the QR as a small grouping of dots (through a QR code generator linked to a 2FA key or OTP key to generate a key to allow a phone or camera client to make the import to the device)
+
+as proposed below a few years ago
+
+
 # QR-code-Encryption-layer-for-QR-codes-in-plainsight
 QR code Encryption layer for QR codes in plainsight
 
