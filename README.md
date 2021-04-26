@@ -5,6 +5,9 @@
 * for sensitive data QR code import
 (this is a fictious QR code just as a visual mental experimental / explaination
 
+
+QR code opens a statue of liberty informational from wikipedia from the smaller QR code in the image but really the smaller QR code would load a pin request to the phone and the smaller QR code would be generated from the phone's QR client that generats a pin to generate the smaller QR code the larger QR code would be compressed QR code data of the actual data that is protected by the smaller QR code
+
 ![s1](https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/QR-code-only-imports-with-2FA-layer-generated-pin.png)
 
 
