@@ -13,6 +13,10 @@ QR code opens a statue of liberty informational from wikipedia from the smaller 
 
 fictious real world example / application as a visual mental experiment / explaination
 
+current QR codes are unprotected from any shoulder surfer with a QR code enabled smart phone
+
+where it is a QR code for cryptocurrency or a QR code for password logins generated for QR code import
+
 ![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/QR-protected-import-only-by-paired-phone.png)
 
 # update noticed this news story
