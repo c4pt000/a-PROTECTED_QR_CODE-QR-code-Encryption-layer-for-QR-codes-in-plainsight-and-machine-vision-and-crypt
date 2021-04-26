@@ -1,6 +1,13 @@
 
 # the QR code has to have a small region visible of pin dots within the rest of the pin dots a QR code inside of a QR code around 25 px by 25 px for a 250 px by 250 px size QR code (guestimate) the smaller QR code has a region that is generated for an OTP or 2FA pin to allow a camera to do the visual detection to allow import from the client side into the device
 
+
+* for sensitive data QR code import
+(this is a fictious QR code just as a visual mental experimental / explaination
+
+![s1](https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/QR-code-only-imports-with-2FA-layer-generated-pin.png)
+
+
 # update noticed this news story
 
 https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/
