@@ -16,6 +16,12 @@ QR code opens a statue of liberty informational from wikipedia from the smaller 
 
 maybe this kind of design could help the regular end user better visually recoginze that the QR code has a layer of protection with a pin instead of being interwoven right into the middle of the QR code
 
+centered
+
+![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/protected-QR-code-centered.png)
+
+or not
+
 ![s1](https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/QR-code-only-imports-with-2FA-layer-generated-pin.png)
 
 data must be interwoven between larger exterior QR code and internal smaller QR code,
