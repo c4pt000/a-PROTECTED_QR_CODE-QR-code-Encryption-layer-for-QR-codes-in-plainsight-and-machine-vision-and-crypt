@@ -14,7 +14,7 @@ QR code opens a statue of liberty informational from wikipedia from the smaller 
 data must be interwoven between larger exterior QR code and internal smaller QR code,
 
 (the internal QR code can use maybe something similar to the lastpass engine to generate a QR code based on PIN)
-(the (larger)exterior QR code interweaves in the right hand corner (north west corner) of the (smaller)internal QR code)
+(the (larger)exterior QR code interweaves in the right hand corner(north west corner)  by 1/4 of the internal QR code by pixel/image size
 
 fictious real world example / application as a visual mental experiment / explaination
 
