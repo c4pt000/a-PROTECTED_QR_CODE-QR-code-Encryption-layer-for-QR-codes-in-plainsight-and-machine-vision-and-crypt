@@ -16,6 +16,9 @@ data must be interwoven between larger exterior QR code and internal smaller QR 
 (the internal QR code can use maybe something similar to the lastpass engine to generate a QR code based on PIN)
 (the (larger)exterior QR code interweaves in the right hand corner(north west corner)  by 1/4 of the internal QR code by pixel/image size
 
+
+the camera doing the import of the QR has to recoginze the pattern as double QR code as a protect QR code to request a pin to enter on the camera side to decode the double QR code protected by pin
+
 fictious real world example / application as a visual mental experiment / explaination
 
 current QR codes are unprotected from any shoulder surfer with a QR code enabled smart phone
