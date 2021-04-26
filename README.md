@@ -1,5 +1,5 @@
 
-# the QR code has to have a small region visible of pin dots within the rest of the pin dots a QR code inside of a QR code around 25 px by 25 px for a 250 px by 250 px size QR code (guestimate) the smaller QR code has a region that is generated for an OTP or 2FA pin visual detection to allow import from the client side
+# the QR code has to have a small region visible of pin dots within the rest of the pin dots a QR code inside of a QR code around 25 px by 25 px for a 250 px by 250 px size QR code (guestimate) the smaller QR code has a region that is generated for an OTP or 2FA pin to allow a camera to do the visual detection to allow import from the client side into the device
 
 # update noticed this news story
 
