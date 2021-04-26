@@ -16,7 +16,8 @@ QR code opens a statue of liberty informational from wikipedia from the smaller 
 
 maybe this kind of design could help the regular end user better visually recoginze that the QR code has a layer of protection with a pin instead of being interwoven right into the middle of the QR code
 
-centered
+easier
+# centered by lastpass tpye of engine for PIN generator centered at X,Y 0,0 of QR generated larger QR code generates with a hole in the middle for the pin pattern around the 2FA layer in the middle by part of the 2FA layer is part of the exterior QR code that is generated
 
 ![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/protected-QR-code-centered.png)
 
