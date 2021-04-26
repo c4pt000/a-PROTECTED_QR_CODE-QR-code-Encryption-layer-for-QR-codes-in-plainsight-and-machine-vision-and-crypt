@@ -13,6 +13,9 @@ WIP** eventually
 
 QR code opens a statue of liberty informational from wikipedia from the smaller QR code in the image but really the smaller QR code would load a pin request to the phone and the smaller QR code would be generated from the phone's QR client that generats a pin to generate the smaller QR code the larger QR code would be compressed QR code data of the actual data that is protected by the smaller QR code
 
+
+maybe this kind of design could help the regular end user better visually recoginze that the QR code has a layer of protection with a pin instead of being interwoven right into the middle of the QR code
+
 ![s1](https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/QR-code-only-imports-with-2FA-layer-generated-pin.png)
 
 data must be interwoven between larger exterior QR code and internal smaller QR code,
