@@ -2,6 +2,8 @@ generates inside of genereating
 
 WIP** eventually
 
+(2 years ago I thought it could sit in the middle of the QR code directly which is also possible instead of picking a specific corner of the larger QR code)
+
 # the QR code has to have a small region visible of pin dots within the rest of the pin dots a QR code inside of a QR code around 25 px by 25 px for a 250 px by 250 px size QR code (guestimate) the smaller QR code has a region that is generated for an OTP or 2FA pin to allow a camera to do the visual detection to allow import from the client side into the device
 
 
