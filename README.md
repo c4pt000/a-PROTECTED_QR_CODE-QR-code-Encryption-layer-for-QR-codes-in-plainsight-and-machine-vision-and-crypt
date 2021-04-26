@@ -11,6 +11,10 @@ QR code opens a statue of liberty informational from wikipedia from the smaller 
 
 ![s1](https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/QR-code-only-imports-with-2FA-layer-generated-pin.png)
 
+data must be interwoven between larger exterior QR code and internal smaller QR code,
+
+(the internal QR code can use maybe something similar to the lastpass engine to generate a QR code based on PIN)
+(the (larger)exterior QR code interweaves in the right hand corner (north west corner) of the (smaller)internal QR code)
 
 fictious real world example / application as a visual mental experiment / explaination
 
