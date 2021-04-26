@@ -21,9 +21,7 @@ easier
 
 ![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/protected-QR-code-centered.png)
 
-or not
 
-![s1](https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/QR-code-only-imports-with-2FA-layer-generated-pin.png)
 
 data must be interwoven between larger exterior QR code and internal smaller QR code,
 
@@ -45,10 +43,6 @@ this *would* be a QR code protecting this website from loading into any nearby d
 centered
 
 ![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/centered-BOA-non-working-example.png)
-
-or not
-
-![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/QR-protected-import-only-by-paired-phone.png)
 
 
 HYOSUNG also protecting a receipt from being imported from someone nearby to stop social engineering campaigns of someone knowing X amount of dollars from withdrawal or deposit trying to social engineer the bank on the phone when they ask about X amount of money
