@@ -3,13 +3,17 @@
 
 
 * for sensitive data QR code import
-(this is a fictious QR code just as a visual mental experimental / explaination
+(this is a fictious QR code just as a visual mental experiment / explaination
 
 
 QR code opens a statue of liberty informational from wikipedia from the smaller QR code in the image but really the smaller QR code would load a pin request to the phone and the smaller QR code would be generated from the phone's QR client that generats a pin to generate the smaller QR code the larger QR code would be compressed QR code data of the actual data that is protected by the smaller QR code
 
 ![s1](https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/QR-code-only-imports-with-2FA-layer-generated-pin.png)
 
+
+fictious real world example / application as a visual mental experiment / explaination
+
+![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/QR-protected-import-only-by-paired-phone.png)
 
 # update noticed this news story
 
