@@ -41,6 +41,11 @@ whether it is a QR code for cryptocurrency or a QR code for password logins gene
 
 this *would* be a QR code protecting this website from loading into any nearby device if it was tied a login (obviously this is the banks screen before a login and password is needed but just for an example if it was other sensitive information)
 
+centered
+
+![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/centered-BOA-non-working-example.png)
+
+or not
 
 ![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/QR-protected-import-only-by-paired-phone.png)
 
