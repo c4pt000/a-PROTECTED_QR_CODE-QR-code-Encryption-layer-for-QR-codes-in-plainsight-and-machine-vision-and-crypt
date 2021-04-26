@@ -79,11 +79,6 @@ used to protect sensitive or financial information encoded into a QR code
 
 
 
-![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-2.png)
-![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-3.png)
-
-
-
 
 
 
