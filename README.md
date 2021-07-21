@@ -1,5 +1,7 @@
 generates inside of genereating
 
+https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code
+
 WIP** eventually
 
 (2 years ago I thought it could sit in the middle of the QR code directly which is also possible instead of picking a specific corner of the larger QR code)
