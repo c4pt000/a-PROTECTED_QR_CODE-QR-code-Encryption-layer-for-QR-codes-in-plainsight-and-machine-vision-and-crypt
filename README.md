@@ -95,7 +95,7 @@ https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption
 
 
 
-
+https://github.com/c4pt000/boaatmfix
 
 
 https://www.reddit.com/r/pcmasterrace/comments/ay7uhc/to_reduce_time_and_energy_waste_with_copy_and/
