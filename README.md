@@ -54,6 +54,7 @@ HYOSUNG also protecting a receipt from being imported from someone nearby to sto
 # PIN ENTERED TO REVEAL RECEIPT
 
 ![s1](http://178.79.188.24/QR/UNLOCKED_PIN-protected-for-QR-import-to-phone.gif)
+
 # update noticed this news story
 
 https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/
