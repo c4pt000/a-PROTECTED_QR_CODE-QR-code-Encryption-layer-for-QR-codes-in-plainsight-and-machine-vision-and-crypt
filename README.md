@@ -51,8 +51,9 @@ HYOSUNG also protecting a receipt from being imported from someone nearby to sto
 
 ![s1](https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/releases/download/gif/PIN-protected-for-QR-import-to-phone.gif)
 
-![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/hyosung-QR.jpg)
+# PIN ENTERED TO REVEAL RECEIPT
 
+![s1](http://178.79.188.24/QR/UNLOCKED_PIN-protected-for-QR-import-to-phone.gif)
 # update noticed this news story
 
 https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/
