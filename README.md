@@ -51,7 +51,7 @@ HYOSUNG also protecting a receipt from being imported from someone nearby to sto
 
 ![s1](https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/releases/download/gif/PIN-protected-for-QR-import-to-phone.gif)
 
- PIN ENTERED TO REVEAL RECEIPT
+ # PIN ENTERED TO REVEAL RECEIPT (would have receipt data just an example here)
 
 ![s1](https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/releases/download/gif/UNLOCKED_PIN-protected-for-QR-import-to-phone.gif)
 
