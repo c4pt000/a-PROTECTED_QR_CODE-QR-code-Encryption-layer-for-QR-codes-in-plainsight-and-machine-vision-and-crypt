@@ -49,6 +49,8 @@ centered
 
 HYOSUNG also protecting a receipt from being imported from someone nearby to stop social engineering campaigns of someone knowing X amount of dollars from withdrawal or deposit trying to social engineer the bank on the phone when they ask about X amount of money
 
+![s1](https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/releases/download/gif/PIN-protected-for-QR-import-to-phone.gif)
+
 ![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/hyosung-QR.jpg)
 
 # update noticed this news story
