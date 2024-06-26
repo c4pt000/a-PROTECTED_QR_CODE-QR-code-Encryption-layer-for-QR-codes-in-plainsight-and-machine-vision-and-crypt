@@ -21,7 +21,6 @@ maybe this kind of design could help the regular end user better visually recogi
 easier
 # centered by lastpass type of engine for PIN generator centered at X,Y 0,0 of QR generated larger QR code generates with a hole in the middle for the pin pattern around the 2FA layer in the middle by part of the 2FA layer is part of the exterior QR code that is generated
 
-![s1](https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/releases/download/gif/PIN-protected-for-QR-import-to-phone.gif)
 
 
 
