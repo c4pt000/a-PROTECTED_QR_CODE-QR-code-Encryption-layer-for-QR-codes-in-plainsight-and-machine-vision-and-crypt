@@ -123,10 +123,4 @@ used to protect sensitive or financial information encoded into a QR code
 
 
 
-https://github.com/c4pt000/boaatmfix
 
-
-https://www.reddit.com/r/pcmasterrace/comments/ay7uhc/to_reduce_time_and_energy_waste_with_copy_and/
-
-
-https://github.com/c4pt000/chromiumQR-desktop
