@@ -18,6 +18,9 @@ DO NOT USE WEAK PINS FOR NON-2FA ENCRYPTION (THIS WAS ONLY AN EXAMPLE IF IT WERE
 </p>
 
 
+# encrypted version THAT IS NOT IN MOTION AND IS A STATIC STILL QR
+# https://bitnft.io/ordinals/v1/inscriptions/a12d3c3aaf80caa978f49df9a88e516575d7ece9ea214b2f7a33934c32bf15b7i0/content
+
 # source 
 # https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/protected-QR-in-motion.tar.gz
 
