@@ -43,7 +43,6 @@ this *would* be a QR code protecting this website from loading into any nearby d
 
 centered
 
-![s1](https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/centered-BOA-non-working-example.png)
 
 
 HYOSUNG also protecting a receipt from being imported from someone nearby to stop social engineering campaigns of someone knowing X amount of dollars from withdrawal or deposit trying to social engineer the bank on the phone when they ask about X amount of money
