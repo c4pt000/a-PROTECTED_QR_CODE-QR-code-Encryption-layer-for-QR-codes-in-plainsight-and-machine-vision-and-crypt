@@ -1,6 +1,8 @@
 
 # update to my crude design 06-26-2024
 
+# THIS DESIGN *CAN NOT* ENCODE A STRING LONGER THAN 111 CHARACTERS INSIDE OF THE QR CODE
+
 # encrypted version in motion to protect the QR code with encryption
 
 # https://bitnft.io/ordinals/v1/inscriptions/47be72ca30bab767f48b6b8ab0890712d2c385ea31ec4db6c0d03022b4477ce5i0/content
