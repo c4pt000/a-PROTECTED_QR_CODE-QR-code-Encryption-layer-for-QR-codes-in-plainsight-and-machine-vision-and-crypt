@@ -111,12 +111,10 @@ used to protect sensitive or financial information encoded into a QR code
 
 
 
-this scumbag is useless even though it might be a laughter of piss rolling down someones leg
-https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/evil-scumbag-dinosaur.png
 
 
-same photo when he turns inside out capturing unprotected QR code data of sensitive data
-https://raw.githubusercontent.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/master/evil-scumbag-dinosaur-turned-inside-out.png
+
+
 
 
 
