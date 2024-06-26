@@ -1,3 +1,8 @@
+
+# update to my crude design 06-26-2024
+
+https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/protected-QR-in-motion.tar.gz
+
 generates inside of genereating
 
 https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code
