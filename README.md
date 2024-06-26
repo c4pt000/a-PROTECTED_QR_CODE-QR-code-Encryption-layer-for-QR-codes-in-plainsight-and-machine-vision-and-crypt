@@ -1,11 +1,14 @@
 
 # update to my crude design 06-26-2024
 
+# encrypted version in motion to protect the QR code with encryption
 https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/blob/master/protected-QR-in-motion.tar.gz
 
 generates inside of genereating
 
+# non-encrypted version in motion
 https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code
+
 
 WIP** eventually
 
