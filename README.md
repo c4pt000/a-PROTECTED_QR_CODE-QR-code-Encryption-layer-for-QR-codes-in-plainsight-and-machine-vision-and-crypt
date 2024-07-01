@@ -1,4 +1,13 @@
 
+
+![s1](https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision-and-crypt/releases/download/gif/motion-qr.gif)
+
+
+
+# here it is inside of electrum-bit-4.2.8 https://github.com/bitnet-io/electrum-bitnet-4.2.8
+
+![s1](https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision-and-crypt/releases/download/gif/new-QR-electrum-bitnet-4.2.8.gif)
+
 # update to my crude design 06-26-2024
 
 # THIS DESIGN *CAN NOT* ENCODE A STRING LONGER THAN 111 CHARACTERS INSIDE OF THE QR CODE
