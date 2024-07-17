@@ -3,7 +3,7 @@
 ```
 with a URI prefix or suffix (depending on the developer's preference and it doesnt have to be labeled "real:=" as a keyword....
 
- as "real:=URI_ENCODED_STRING" where URI_ENCODE_STRING is the generated REAL QR and not the flashing random signal to make it appear animated
+ as "real:=URI_ENCODED_STRING" where URI_ENCODED_STRING is the generated REAL QR and not the flashing random signal to make it appear animated
 
 then the client side discards anything not labeled with the keyword "real:=" and only imports it when real:= is shown and discards real:= when actually on the client side to only have the URI_ENCODED_STRING leftover
 ```
