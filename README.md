@@ -8,7 +8,7 @@ with a URI prefix or suffix (depending on the developer's preference and it does
 then the client side discards anything not labeled with the keyword "real:=" and only imports it when real:= is shown and discards real:= when actually on the client side to only have the URI_ENCODED_STRING leftover
 ```
 
-```
+
 
 ![s1](https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision-and-crypt/releases/download/gif/motion-qr.gif)
 
